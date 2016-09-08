@@ -36,6 +36,8 @@
 				</div>
 				</form:form>
 	</div>
+	<br />
+	<td><a href="adduser" >Zarejestruj się</a> </td>
 	
 	<div id ="comment">Logowanie sprawdza tylko login i hasło, nie zdążyłam dodać
 		blokowania dostępu do pozostałych stron. 

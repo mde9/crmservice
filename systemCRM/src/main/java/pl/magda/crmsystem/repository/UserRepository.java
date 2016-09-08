@@ -34,7 +34,7 @@ public class UserRepository {
 	public void addUser(User user) {
 
 		Map<String, Object> params = new HashMap<String, Object>();
-		params.put("idrole",user.getIdrole());
+		params.put("idrole",1);
 		params.put("login",user.getLogin());
 		params.put("password", user.getPassword());
 		

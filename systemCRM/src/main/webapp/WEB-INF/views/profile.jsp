@@ -25,7 +25,7 @@
 		</tr>
 		
 		<tr>
-		<td>zdjęcie : </td><td><img src="${check.foto }" /></td>
+		<td>zdjęcie : </td><td><!-- <img src="${check.foto }" /> --></td>
 		</tr>
 
 	
